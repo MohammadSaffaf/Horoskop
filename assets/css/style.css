@@ -1,0 +1,40 @@
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 40%;
+  padding-left: 30%;
+  margin-top: 20%;
+}
+button {
+  background-color: aqua;
+  margin-top: 2%;
+  padding: 3%;
+  font-size: 30px;
+}
+#some {
+  height: 3vh;
+}
+/* div {
+  background: url(https://www.horoscopedates.com/img/icon_aries.png) center
+    no-repeat;
+  box-shadow: 4px 4px 4px 4px darkgray;
+  margin-top: 3%;
+  height: 40vh;
+  display: none;
+} */
+
+h1,
+p {
+}
+
+.div-1 {
+  background: url(https://www.horoscopedates.com/img/icon_aries.png) center
+    no-repeat;
+  margin-top: 5%;
+  box-shadow: 4px 4px 4px 4px darkgray;
+  height: 30vh;
+  padding-top: 10%;
+  display: block;
+}
